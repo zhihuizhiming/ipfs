@@ -101,6 +101,8 @@ This is a short selection of introductory talks. In time we will collect more he
 - 2015-02-20 - [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
 - 2015-06-03 - [IPFS Hands on Introduction](https://www.youtube.com/watch?v=h73bd9b5pPA) at Ethereum SV Meetup
 - **2015-10-22 - [IPFS: The Distributed, Permanent Web](https://www.youtube.com/watch?v=HUVmypx9HGI) at Stanford Seminar (best overview of project)**
+- 2016-09-14 - [Distributed Apps with IPFS](https://www.youtube.com/watch?v=jONZtXMu03w)
+- 2016-10-22 - [The Decentralized Web, IPFS and Filecoin](https://www.youtube.com/watch?v=cU-n_m-snxQ)
 
 
 ## More About IPFS
@@ -248,7 +250,7 @@ We have a status board that checks all IPFS repositories for CI, Readmes, test c
 
 #### IPFS Node Apps
 
-* [station](https://github.com/ipfs/station) - An IPFS Dektop app.
+* [station](https://github.com/ipfs/station) - An IPFS Desktop app.
 * [webui](https://github.com/ipfs/webui) - The IPFS WebUI app.
 
 #### Apps on IPFS
@@ -267,7 +269,7 @@ We have a status board that checks all IPFS repositories for CI, Readmes, test c
 * [community](https://github.com/ipfs/community) - Community Discussions and documentation on community practices.
 * [distributions](https://github.com/ipfs/distributions) - Scripts to build the /install html page.
 * [infrastructure](https://github.com/ipfs/infrastructure) - Tools and systems for the community.
-* [newsletter](https://github.com/ipfs/newsletter) - Prepare and store IFPS Newsletter roundups
+* [newsletter](https://github.com/ipfs/newsletter) - Prepare and store IPFS Newsletter roundups
 * [ops-requests](https://github.com/ipfs/ops-requests) - Requests about infrastructure operations
 * [project-repos](https://github.com/ipfs/project-repos) CI status and other health metrics
 * [website](https://github.com/ipfs/website) - The source to the IPFS community website at http://ipfs.io.
@@ -326,8 +328,8 @@ Other
 
 Many more exist, but we will endeavor to find them and add them here.
 
-* [go-blocks](https://github.com/ipfs/go-blocks)
-* [go-commands](https://github.com/ipfs/go-commands)
+* [go-blocks](https://github.com/ipfs/go-blocks) - Deprecated, continued within go-ipfs
+* [go-commands](https://github.com/ipfs/go-commands) - Deprecated, continued within go-ipfs
 * [go-ipfs-util](https://github.com/ipfs/go-ipfs-util) - Common utilities used by go-ipfs and other related go packages.
 * [go-ipld](https://github.com/ipfs/go-ipld) - Implementation of [the IPLD spec](https://github.com/ipfs/specs/tree/master/merkledag/ipld.md) in Go.
 * [go-iprs](https://github.com/ipfs/go-iprs) - Go-ipfs records.
